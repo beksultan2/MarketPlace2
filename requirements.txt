@@ -1,0 +1,7 @@
+Django>=5.1
+djangorestframework
+djangorestframework-simplejwt
+django-allauth
+django-filter
+drf-spectacular
+Pillow
